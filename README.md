@@ -1,24 +1,24 @@
-# trycar-task
+<h1 align="center">
+   try-car Assessment Task 📝
+</h1>
 
-## Project setup
-```
-yarn install
-```
+<p align="center">
+  🖊️  App built using <a href="https://vuejs.org/">Vue js</a>
+ 
+</p>
+<p align="center"></p>
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## This is a  simple Todo App built using vue.js .
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### You can view it here: https://try-cartask.vercel.app/
+
+
+## 🏗️ To build it
+
+1. Clone this repo by running `git clone https://github.com/eman275/tryCartask`.
+2. git help docs could help you `https://git-scm.com/docs/git-help` ,
+3. `cd` into the `trycar-task` folder and run `npm i` or `yarn`.
+4. Run `npm start` OR `yarn start` to start the development server.
